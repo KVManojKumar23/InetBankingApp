@@ -1,0 +1,85 @@
+2024-07-26 18:56:10,409 - ebanking -INFO - URL is Opened
+2024-07-26 18:56:11,034 - ebanking -INFO - Enter UserName
+2024-07-26 18:56:11,320 - ebanking -INFO - Enter Password
+2024-07-26 18:56:14,919 - ebanking -INFO - Login test passed
+2024-07-26 20:11:48,967 - ebanking -INFO - URL is Opened
+2024-07-26 20:11:49,525 - ebanking -INFO - Enter UserName
+2024-07-26 20:11:49,649 - ebanking -INFO - Enter Password
+2024-07-26 20:11:52,353 - ebanking -INFO - Login test passed
+2024-07-26 23:03:04,297 - ebanking -INFO - URL is Opened
+2024-07-26 23:03:04,726 - ebanking -INFO - Enter UserName
+2024-07-26 23:03:05,259 - ebanking -INFO - Enter Password
+2024-07-26 23:03:08,655 - ebanking -INFO - Login test passed
+2024-07-29 10:18:52,894 - ebanking -INFO - User name provided
+2024-07-29 10:18:53,174 - ebanking -INFO - password provided
+2024-07-29 10:18:56,990 - ebanking -INFO - User name provided
+2024-07-29 10:18:57,211 - ebanking -INFO - password provided
+2024-07-29 10:19:01,607 - ebanking -INFO - User name provided
+2024-07-29 10:19:01,840 - ebanking -INFO - password provided
+2024-07-29 10:19:05,987 - ebanking -INFO - User name provided
+2024-07-29 10:19:06,223 - ebanking -INFO - password provided
+2024-07-29 10:19:10,712 - ebanking -INFO - User name provided
+2024-07-29 10:19:10,985 - ebanking -INFO - password provided
+2024-07-29 10:24:06,991 - ebanking -INFO - User name provided
+2024-07-29 10:24:07,333 - ebanking -INFO - password provided
+2024-07-29 10:24:11,440 - ebanking -INFO - Login Passed
+2024-07-29 10:24:15,975 - ebanking -INFO - User name provided
+2024-07-29 10:24:16,222 - ebanking -INFO - password provided
+2024-07-29 10:24:20,454 - ebanking -INFO - User name provided
+2024-07-29 10:24:20,694 - ebanking -INFO - password provided
+2024-07-29 10:24:23,975 - ebanking -INFO - User name provided
+2024-07-29 10:24:24,492 - ebanking -INFO - password provided
+2024-07-29 10:24:27,416 - ebanking -INFO - Login Passed
+2024-07-29 10:24:31,638 - ebanking -INFO - User name provided
+2024-07-29 10:24:31,904 - ebanking -INFO - password provided
+2024-07-29 11:53:42,617 - ebanking -INFO - User name provided
+2024-07-29 11:53:42,814 - ebanking -INFO - password provided
+2024-07-29 11:53:45,132 - ebanking -INFO - Login Passed
+2024-07-29 11:53:49,057 - ebanking -INFO - User name provided
+2024-07-29 11:53:49,207 - ebanking -INFO - password provided
+2024-07-29 11:53:54,514 - ebanking -INFO - User name provided
+2024-07-29 11:53:54,676 - ebanking -INFO - password provided
+2024-07-29 11:53:58,396 - ebanking -INFO - User name provided
+2024-07-29 11:53:58,557 - ebanking -INFO - password provided
+2024-07-29 11:54:00,971 - ebanking -INFO - Login Passed
+2024-07-29 11:54:04,323 - ebanking -INFO - User name provided
+2024-07-29 11:54:04,489 - ebanking -INFO - password provided
+2024-07-29 12:09:09,150 - ebanking -INFO - User name provided
+2024-07-29 12:09:09,344 - ebanking -INFO - password provided
+2024-07-29 12:09:11,679 - ebanking -INFO - Login Passed
+2024-07-29 12:09:15,674 - ebanking -INFO - User name provided
+2024-07-29 12:09:15,856 - ebanking -INFO - password provided
+2024-07-29 12:09:19,411 - ebanking -INFO - User name provided
+2024-07-29 12:09:19,599 - ebanking -INFO - password provided
+2024-07-29 12:09:21,734 - ebanking -INFO - User name provided
+2024-07-29 12:09:21,908 - ebanking -INFO - password provided
+2024-07-29 12:09:24,046 - ebanking -INFO - Login Passed
+2024-07-29 12:09:26,914 - ebanking -INFO - User name provided
+2024-07-29 12:09:27,133 - ebanking -INFO - password provided
+2024-07-29 12:23:19,520 - ebanking -INFO - UserName is Provided
+2024-07-29 12:23:19,754 - ebanking -INFO - Password is provided
+2024-07-29 12:23:25,536 - ebanking -INFO - providing Customer Details....
+2024-07-29 12:25:41,931 - ebanking -INFO - UserName is Provided
+2024-07-29 12:25:42,097 - ebanking -INFO - Password is provided
+2024-07-29 12:25:47,649 - ebanking -INFO - providing Customer Details....
+2024-07-29 12:27:30,649 - ebanking -INFO - UserName is Provided
+2024-07-29 12:27:30,835 - ebanking -INFO - Password is provided
+2024-07-29 12:27:36,110 - ebanking -INFO - providing Customer Details....
+2024-07-29 12:34:27,956 - ebanking -INFO - UserName is Provided
+2024-07-29 12:34:28,163 - ebanking -INFO - Password is provided
+2024-07-29 12:35:38,494 - ebanking -INFO - UserName is Provided
+2024-07-29 12:35:38,687 - ebanking -INFO - Password is provided
+2024-07-29 12:35:45,942 - ebanking -INFO - providing Customer Details....
+2024-07-29 12:40:41,731 - ebanking -INFO - UserName is Provided
+2024-07-29 12:40:41,959 - ebanking -INFO - Password is provided
+2024-07-29 12:40:57,727 - ebanking -INFO - providing Customer Details....
+2024-07-29 12:41:37,238 - ebanking -INFO - UserName is Provided
+2024-07-29 12:41:37,396 - ebanking -INFO - Password is provided
+2024-07-29 12:41:53,098 - ebanking -INFO - providing Customer Details....
+2024-07-29 12:42:04,042 - ebanking -INFO - Validation started....
+2024-07-29 12:42:04,075 - ebanking -INFO - test case passed....
+2024-07-29 12:52:19,417 - ebanking -INFO - UserName is Provided
+2024-07-29 12:52:20,180 - ebanking -INFO - Password is provided
+2024-07-29 12:52:36,059 - ebanking -INFO - providing Customer Details....
+2024-07-29 12:52:47,395 - ebanking -INFO - Validation started....
+2024-07-29 12:52:47,443 - ebanking -INFO - test case passed....
